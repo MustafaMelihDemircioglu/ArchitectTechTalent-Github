@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maffd\\source\\repos\\FinanceManagementWepAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{861ABA5B-1D28-4D12-BFCB-C43C06608C88}|FinanceManagementWepAPI.csproj|c:\\users\\maffd\\source\\repos\\financemanagementwepapi\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{861ABA5B-1D28-4D12-BFCB-C43C06608C88}|FinanceManagementWepAPI.csproj|solutionrelative:controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{861ABA5B-1D28-4D12-BFCB-C43C06608C88}|FinanceManagementWepAPI.csproj|c:\\users\\maffd\\source\\repos\\financemanagementwepapi\\base\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{861ABA5B-1D28-4D12-BFCB-C43C06608C88}|FinanceManagementWepAPI.csproj|solutionrelative:base\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{861ABA5B-1D28-4D12-BFCB-C43C06608C88}|FinanceManagementWepAPI.csproj|c:\\users\\maffd\\source\\repos\\financemanagementwepapi\\data\\financialmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{861ABA5B-1D28-4D12-BFCB-C43C06608C88}|FinanceManagementWepAPI.csproj|solutionrelative:data\\financialmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{861ABA5B-1D28-4D12-BFCB-C43C06608C88}|FinanceManagementWepAPI.csproj|c:\\users\\maffd\\source\\repos\\financemanagementwepapi\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{861ABA5B-1D28-4D12-BFCB-C43C06608C88}|FinanceManagementWepAPI.csproj|solutionrelative:controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{861ABA5B-1D28-4D12-BFCB-C43C06608C88}|FinanceManagementWepAPI.csproj|c:\\users\\maffd\\source\\repos\\financemanagementwepapi\\migrations\\20240626102546_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{861ABA5B-1D28-4D12-BFCB-C43C06608C88}|FinanceManagementWepAPI.csproj|solutionrelative:migrations\\20240626102546_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{861ABA5B-1D28-4D12-BFCB-C43C06608C88}|FinanceManagementWepAPI.csproj|c:\\users\\maffd\\source\\repos\\financemanagementwepapi\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{861ABA5B-1D28-4D12-BFCB-C43C06608C88}|FinanceManagementWepAPI.csproj|solutionrelative:models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{861ABA5B-1D28-4D12-BFCB-C43C06608C88}|FinanceManagementWepAPI.csproj|c:\\users\\maffd\\source\\repos\\financemanagementwepapi\\controllers\\transferscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{861ABA5B-1D28-4D12-BFCB-C43C06608C88}|FinanceManagementWepAPI.csproj|solutionrelative:controllers\\transferscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{861ABA5B-1D28-4D12-BFCB-C43C06608C88}|FinanceManagementWepAPI.csproj|c:\\users\\maffd\\source\\repos\\financemanagementwepapi\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{861ABA5B-1D28-4D12-BFCB-C43C06608C88}|FinanceManagementWepAPI.csproj|solutionrelative:dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{861ABA5B-1D28-4D12-BFCB-C43C06608C88}|FinanceManagementWepAPI.csproj|c:\\users\\maffd\\source\\repos\\financemanagementwepapi\\dtos\\accountcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{861ABA5B-1D28-4D12-BFCB-C43C06608C88}|FinanceManagementWepAPI.csproj|solutionrelative:dtos\\accountcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FinancialManagementContext.cs",
+              "DocumentMoniker": "C:\\Users\\maffd\\source\\repos\\FinanceManagementWepAPI\\Data\\FinancialManagementContext.cs",
+              "RelativeDocumentMoniker": "Data\\FinancialManagementContext.cs",
+              "ToolTip": "C:\\Users\\maffd\\source\\repos\\FinanceManagementWepAPI\\Data\\FinancialManagementContext.cs",
+              "RelativeToolTip": "Data\\FinancialManagementContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:42:04.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\maffd\\source\\repos\\FinanceManagementWepAPI\\Base\\Connection.cs",
+              "RelativeDocumentMoniker": "Base\\Connection.cs",
+              "ToolTip": "C:\\Users\\maffd\\source\\repos\\FinanceManagementWepAPI\\Base\\Connection.cs",
+              "RelativeToolTip": "Base\\Connection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:41:39.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\maffd\\source\\repos\\FinanceManagementWepAPI\\DTOs\\AccountCreateDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\AccountCreateDTO.cs",
+              "ToolTip": "C:\\Users\\maffd\\source\\repos\\FinanceManagementWepAPI\\DTOs\\AccountCreateDTO.cs",
+              "RelativeToolTip": "DTOs\\AccountCreateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:30:41.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240626102546_Second.cs",
+              "DocumentMoniker": "C:\\Users\\maffd\\source\\repos\\FinanceManagementWepAPI\\Migrations\\20240626102546_Second.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240626102546_Second.cs",
+              "ToolTip": "C:\\Users\\maffd\\source\\repos\\FinanceManagementWepAPI\\Migrations\\20240626102546_Second.cs",
+              "RelativeToolTip": "Migrations\\20240626102546_Second.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:25:46.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\maffd\\source\\repos\\FinanceManagementWepAPI\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Models\\Account.cs",
+              "ToolTip": "C:\\Users\\maffd\\source\\repos\\FinanceManagementWepAPI\\Models\\Account.cs",
+              "RelativeToolTip": "Models\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:24:32.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserLoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\maffd\\source\\repos\\FinanceManagementWepAPI\\DTOs\\UserLoginDTO.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserLoginDTO.cs",
+              "ToolTip": "C:\\Users\\maffd\\source\\repos\\FinanceManagementWepAPI\\DTOs\\UserLoginDTO.cs",
+              "RelativeToolTip": "DTOs\\UserLoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T08:49:45.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TransfersController.cs",
+              "DocumentMoniker": "C:\\Users\\maffd\\source\\repos\\FinanceManagementWepAPI\\Controllers\\TransfersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TransfersController.cs",
+              "ToolTip": "C:\\Users\\maffd\\source\\repos\\FinanceManagementWepAPI\\Controllers\\TransfersController.cs",
+              "RelativeToolTip": "Controllers\\TransfersController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAowCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:46:49.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransactionsController.cs",
+              "DocumentMoniker": "C:\\Users\\maffd\\source\\repos\\FinanceManagementWepAPI\\Controllers\\TransactionsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TransactionsController.cs",
+              "ToolTip": "C:\\Users\\maffd\\source\\repos\\FinanceManagementWepAPI\\Controllers\\TransactionsController.cs",
+              "RelativeToolTip": "Controllers\\TransactionsController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:45:52.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\maffd\\source\\repos\\FinanceManagementWepAPI\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountsController.cs",
+              "ToolTip": "C:\\Users\\maffd\\source\\repos\\FinanceManagementWepAPI\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "Controllers\\AccountsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:43:33.939Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
